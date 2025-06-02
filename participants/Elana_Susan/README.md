@@ -1,7 +1,7 @@
 
 # Elna Susan
 
-**College:** ABC College of Engineering  
+**College:** Albertian Institute of Science & Technology 
 **Branch:** Computer Science and Engineering  
 **Year:** 3rd Year
 
