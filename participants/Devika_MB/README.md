@@ -5,7 +5,10 @@ Third Year
 
 🌱 Currently learning: Python, Machine Learning, and stuff i find interesting along the way.
 
-🎯 Goals for this year: Create my dream personal projects, learn more of the stuffs i want to learn
+🎯 Goals for this year: 
+1. Develop ML powered projects (min 3)
+2. Participate in a Hackathon
+3. Create a personal Portfolio Website
 
 👯 How I want to Collaborate: I would love a studdy buddy interested in NLP and OpenCV.
 
