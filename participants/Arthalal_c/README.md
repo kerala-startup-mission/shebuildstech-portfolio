@@ -1,7 +1,7 @@
 # Arthalal C
-**College:** College Of Engineering Perumon(CEP)
-**Branch:** Artifical intelligence and Data science
-**Year:** 2nd Year
+**College:** College Of Engineering Perumon(CEP)<br>
+**Branch:** Artifical intelligence and Data science<br>
+**Year:** 2nd Year<br>
 
 ### 🌱 Currently Learning
 - Python & C
