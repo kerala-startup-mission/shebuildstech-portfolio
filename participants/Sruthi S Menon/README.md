@@ -15,22 +15,22 @@ It's me Sruthi S Menon...
 - Join the execom of a tech club and help it to grow.
 
 ##🤝Let's collobarate!
-  I'm excited to collaborate with others to:
-  - Build simple yet meaningful projects and grow together.
-  - Take part in hackathons ans solve real-world problems.
-  - Experiment with web development and share knowledge.
-  - Exchange ideas, debug code and making learning fun.
+I'm excited to collaborate with others to:
+- Build simple yet meaningful projects and grow together.
+- Take part in hackathons ans solve real-world problems.
+- Experiment with web development and share knowledge.
+- Exchange ideas, debug code and making learning fun.
 
 ##🎯3 wishes to accomplish this month
-  - complete the coding challenge on hackerrank with consistency.
-  - Do a 2-week internship.
-  - finish creating a drug report app(which i haven't even started yet).
+- complete the coding challenge on hackerrank with consistency.
+- Do a 2-week internship.
+- finish creating a drug report app(which i haven't even started yet).
 
 ##😂Fun fact about me
-  - I'm a night person.When everyone else is working, it's my time to sleep and starting doing my work when the world is quite so i can do everything peacefully.(But it doesn't affect completing the work and 
+- I'm a night person.When everyone else is working, it's my time to sleep - and i start doing my work when the world is quite, so i can do everything peacefully.(I can also act like a normal person if required.)
 
 ##📬My Github profile
-  - https://github.com/Sruthi1509
+- https://github.com/Sruthi1509
   
   
    
