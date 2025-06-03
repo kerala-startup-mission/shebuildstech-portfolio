@@ -31,4 +31,4 @@
 - I’m passionate about coding, thrive in hackathons and CTFs, and love diving into the world of AI innovations!
 
 📫 **GitHub Profile**  
-[github.com/krishnapriyaprasannan](https://github.com/krishnapriyaprasannan)
+[github.com/Krishnapriya-prasannan](https://github.com/Krishnapriya-prasannan)
