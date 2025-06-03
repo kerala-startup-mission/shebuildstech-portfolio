@@ -24,7 +24,7 @@
 
 🪄 **3 Goals to Accomplish This Month**  
 1. Complete and deploy my personal portfolio  
-2. Solve 30+ DSA problems  
+2. Solve 30+ Leetcode problems  
 3. Build and publish a meaningful project
 
 💬 **Fun Fact About Me**  
