@@ -3,6 +3,8 @@
 **Branch:** Artifical intelligence and Data science<br>
 **Year:** 2nd Year<br>
 
+---
+
 ### 🌱 Currently Learning
 - Python & C
 - Arduino
