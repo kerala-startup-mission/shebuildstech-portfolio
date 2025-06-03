@@ -1,5 +1,7 @@
- Sangeetha GS
+ SANGEETHA GS
+ 
 College Name:LBS Institute of Technology For Women Poojappura
+
 Branch: Computer Science and Engineering  
 Year: 4th Year (Semester 7)
 
