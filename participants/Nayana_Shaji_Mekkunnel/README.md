@@ -27,4 +27,6 @@
 3. Finish other projects i havent been able to finish
 
 💬 **Fun Fact About Me**  
-- I like trying new things. 
+- I like trying new things.
+  
+  GitHub profile link- https://github.com/nayanashaji
