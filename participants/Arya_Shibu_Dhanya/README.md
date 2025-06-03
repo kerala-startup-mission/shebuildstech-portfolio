@@ -21,6 +21,7 @@
 
 
 <br>
+<br>
 
 
 <h3>How I want to Collaborate</h3>
@@ -29,6 +30,7 @@
 <p>-Would like to lead and help out others
 
 
+<br>
 <br>
 
 
