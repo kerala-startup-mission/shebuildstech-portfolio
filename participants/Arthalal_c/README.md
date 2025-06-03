@@ -1,5 +1,5 @@
 # Arthalal C
-**College:**College Of Engineering Perumon(cep)
+*College:*College Of Engineering Perumon(cep)
 **Branch:**Artifical intelligence and Data science
 **Year:**2nd Year
 
