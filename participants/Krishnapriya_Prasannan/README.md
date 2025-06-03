@@ -2,7 +2,7 @@
 
 **College:** Mar Athanasius College of Engineering  
 **Branch:** Computer Science Engineering  
-**Year:** 3rd Year
+**Year:** 3rd Year(Batch 2022-2026)
 
 ---
 
