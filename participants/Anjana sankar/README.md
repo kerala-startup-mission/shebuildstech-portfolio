@@ -1,8 +1,9 @@
 # Heyyy, I’m Anjana Sankar.
  
-**College:** Cochin University of Science and Technology (CUSAT), Cochin. 
+**College:** Cochin University of Science and Technology (CUSAT), Cochin.  
 **Branch:** Computer Science Engineering (Data Science and AI)  
-**Year:** 3rd Year  
+**Year:** 3rd Year
+
 
 ---
 
