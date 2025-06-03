@@ -1,4 +1,4 @@
-- **Akshara S Shenoy**
+- **Akshara .S. Shenoy**
 -
 -
 - **College Name:** LBS Institute of Technology for Women, Trivandrum
