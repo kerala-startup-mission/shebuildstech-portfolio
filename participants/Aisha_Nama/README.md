@@ -5,6 +5,7 @@
 **Year:** 3rd Year  
 
 🌱 *Currently learning:* Data Science, Machine Learning, NLP
+
 🎯 *Goals for this year:*  
 - Publish research papers  
 - Win a major hackathon  
@@ -21,4 +22,5 @@ Open source projects, women in tech events, climate-tech research
 
 
 💬 *Fun fact:* I once built an app in 24 hours with no sleep and won!  (SappyC project for jia.seed hackathon)
+
 📫 [GitHub Profile](https://github.com/A-Nama)
