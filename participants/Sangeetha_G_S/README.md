@@ -19,5 +19,5 @@ Year: 4th Year (Semester 7)
 - Practice 30+ DSA questions  
 - Contribute to an open-source repo
 
-💬 Fun fact: I love explaining technical concepts in simple ways and I’m a fan of well-organized GitHub repos! 😄  
+💬 Fun fact: I love explaining technical concepts in simple ways.
 📫 GitHub: [https://github.com/sangeethagireesh](https://github.com/sangeethagireesh)
