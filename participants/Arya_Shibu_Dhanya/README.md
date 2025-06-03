@@ -6,7 +6,7 @@
 
 <h3>Currently learning 📝</h3>
 <p>-Learning Data Structures And Algorithms</p>
-<p>-Attempting Competitive Programming</p>
+<p>-Attempting Competitive Programming (CP)</p>
 <p>-Learning more about Web Development</p>
 
 
