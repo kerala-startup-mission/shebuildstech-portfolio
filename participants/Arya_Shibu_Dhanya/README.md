@@ -3,7 +3,7 @@
 
 <h3>Currently learning<h3>
 <ul>
- <li>DATA STRUCTURES AND ALGORITHMS </li>
- <li>Trying Competitive programming (CP) </li>
- <li>Learning more about Web Development </li>
+ <p>DATA STRUCTURES AND ALGORITHMS </p>
+ <p>Trying Competitive programming (CP) </p>
+ <p>Learning more about Web Development </p>
  </ul>
